@@ -186,7 +186,6 @@ response = client.chat.completions.create(
 - Use their playground to experiment before coding
 - Monitor your API usage to manage costs
 
-Would you like me to dive deeper into any of these aspects or explain how to implement OpenAI's LLMs in specific use cases?
 </aside>
 
 <aside>
