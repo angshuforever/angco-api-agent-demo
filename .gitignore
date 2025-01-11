@@ -1,4 +1,4 @@
-.gitignore
+# Standard gitignore file
 
 # Virtual Environment
 venv/
